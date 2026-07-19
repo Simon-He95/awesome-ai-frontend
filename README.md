@@ -17,6 +17,9 @@ Please feel free to contribute by creating a Pull Request. 🚀
 ## APIs and SDKs
 * [OpenAI API suite](https://beta.openai.com/docs/libraries/node-js-library) - npm library for interacting with OpenAI's AI models like GPT-3, Codex and DALL·E.
 
+#### UI and rendering
+* [Markstream](https://github.com/Simon-He95/markstream-vue) - Open-source streaming Markdown renderer for AI chat interfaces, with packages for Vue, React, Svelte, Angular and Vue 2.
+
 #### Text based
 * [Google Cloud Speech-to-Text SDK](https://cloud.google.com/speech-to-text/docs/transcribe-client-libraries#client-libraries-install-nodejs) - Transcribe speech to text using the Google Cloud Speech-to-Text API
 * [Microsoft Text Analytics](https://azure.microsoft.com/en-ca/products/cognitive-services/text-analytics/#overview)- A collection of Cognitive Service Language capabilities that analyze, classify and comprehend text (emotions and all) within documents.
@@ -88,4 +91,3 @@ Build your own AI writing assistant app and chrome extension w/ GPT-3 with Next.
 
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
